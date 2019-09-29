@@ -1,2 +1,2 @@
 # List
-simple list http://freelist.hostenko.com/ 
+simple list http://freelist1.hostenko.com/
